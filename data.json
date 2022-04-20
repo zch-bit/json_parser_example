@@ -1,5 +1,6 @@
 [
   {
+    "id": 4107,
     "name": "emily",
     "last_name": "Green",
     "age": "23",
@@ -13,84 +14,7 @@
     }
   },
   {
-    "name": "Kitty",
-    "last_name": "Debork",
-    "age": "25",
-    "social": {
-      "facebook": "http://www.fb.com",
-      "twitter": "http://www.twitter.com"
-    },
-    "like": {
-      "food": "banana",
-      "brand": "gucci"
-    }
-  },
-  {
-    "name": "Kitty",
-    "last_name": "Debork",
-    "age": "25",
-    "social": {
-      "facebook": "http://www.fb.com",
-      "twitter": "http://www.twitter.com"
-    },
-    "like": {
-      "food": "banana",
-      "brand": "gucci"
-    }
-  },
-  {
-    "name": "Kitty",
-    "last_name": "Debork",
-    "age": "25",
-    "social": {
-      "facebook": "http://www.fb.com",
-      "twitter": "http://www.twitter.com"
-    },
-    "like": {
-      "food": "banana",
-      "brand": "gucci"
-    }
-  },
-  {
-    "name": "emily",
-    "last_name": "Green",
-    "age": "23",
-    "social": {
-      "facebook": "http://www.fb.com",
-      "twitter": "http://www.twitter.com"
-    },
-    "like": {
-      "food": "apple",
-      "brand": "channel"
-    }
-  },
-  {
-    "name": "Kitty",
-    "last_name": "Debork",
-    "age": "25",
-    "social": {
-      "facebook": "http://www.fb.com",
-      "twitter": "http://www.twitter.com"
-    },
-    "like": {
-      "food": "banana",
-      "brand": "gucci"
-    }
-  },
-  {
-    "name": "Kitty",
-    "last_name": "Debork",
-    "age": "25",
-    "social": {
-      "facebook": "http://www.fb.com",
-      "twitter": "http://www.twitter.com"
-    },
-    "like": {
-      "food": "banana",
-      "brand": "gucci"
-    }
-  },
-  {
+    "id": 4108,
     "name": "Kitty",
     "last_name": "Debork",
     "age": "25",
